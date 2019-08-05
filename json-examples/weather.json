@@ -1,51 +1,51 @@
 [
     {
-        "thoi gian": "2018/08/06",
-        "ngay trong tuan": "Thu hai",
-        "du bao": "Mua rao",
-        "nhiet do": "32/25"
+        "thoi_gian": "2018/08/06",
+        "ngay_trong tuan": "Thu hai",
+        "du_bao": "Mua rao",
+        "nhiet_do": "32/25"
     },
     
     {
-        "thoi gian": "2018/08/07",
-        "ngay trong tuan": "Thu ba",
-        "du bao": "Mua dong thinh thoang",
-        "nhiet do": "33/25"
+        "thoi_gian": "2018/08/07",
+        "ngay_trong_tuan": "Thu ba",
+        "du_bao": "Mua dong thinh thoang",
+        "nhiet_do": "33/25"
     },
     
     {
-        "thoi gian": "2018/08/08",
-        "ngay trong tuan": "Thu tu",
-        "du bao": "Co the co mua rao hoac mua dong",
-        "nhiet do": "31/25"
+        "thoi_gian": "2018/08/08",
+        "ngay_trong_tuan": "Thu tu",
+        "du_bao": "Co the co mua rao hoac mua dong",
+        "nhiet_do": "31/25"
     },
     
     {
-        "thoi gian": "2018/08/09",
-        "ngay trong tuan": "Thu nam",
-        "du bao": "Co the co mua rao hoac mua dong",
-        "nhiet do": "30/25"
+        "thoi_gian": "2018/08/09",
+        "ngay_trong_tuan": "Thu nam",
+        "du_bao": "Co the co mua rao hoac mua dong",
+        "nhiet_do": "30/25"
     },
     
     {
-        "thoi gian": "2018/08/10",
-        "ngay trong tuan": "Thu sau",
-        "du bao": "Mot vai con mua rao",
-        "nhiet do": "31/25"
+        "thoi_gian": "2018/08/10",
+        "ngay_trong_tuan": "Thu sau",
+        "du_bao": "Mot vai con mua rao",
+        "nhiet_do": "31/25"
     },
     
     {
-        "thoi gian": "2018/08/11",
-        "ngay trong tuan": "Thu bay",
-        "du bao": "Mot vai con mua rao",
-        "nhiet do": "32/25"
+        "thoi_gian": "2018/08/11",
+        "ngay_trong_tuan": "Thu bay",
+        "du_bao": "Mot vai con mua rao",
+        "nhiet_do": "32/25"
     },
     
     {
-        "thoi gian": "2018/08/12",
-        "ngay trong tuan": "Chu nhat",
-        "du bao": "Mot vai con mua rao va dong",
-        "nhiet do": "32/25"
+        "thoi_gian": "2018/08/12",
+        "ngay_trong_tuan": "Chu nhat",
+        "du_bao": "Mot vai con mua rao va dong",
+        "nhiet_do": "32/25"
     }
     
 ]
