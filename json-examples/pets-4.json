@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Chó",
+        "species": "cat",
+        "foods": {
+            "likes": ["tuna", "catnip"],
+            "dislikes": ["ham", "zucchini"]
+            }, 
+        "birthyear": "2016",
+        "photo": "https://kiseki2301.github.io/images/cat-1.jpg"
+    },
+    
+    {
+        "name": "Barky",
+        "species" : "dog",
+        "foods": {
+            "likes": ["bones", "carrots"],
+            "dislikes": ["tuna"]
+        },
+        "birthyear": "2017",
+        "photo": "https://kiseki2301.github.io/images/dog-1.jpg"
+    },
+    
+    {
+        "name": "Purrpaws",
+        "species" : "cat",
+        "foods": {
+            "likes": ["mice"],
+            "dislikes": ["cookies"]
+        },
+        "birthyear": "2012",
+        "photo": "https://kiseki2301.github.io/images/cat-2.jpg"
+    }
+]
